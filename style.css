@@ -26,6 +26,7 @@ body{
     color: var(--color-4);
     text-align: center;
     padding: 80px;
+    cursor: pointer;
 }
 
 .heading-content h1{

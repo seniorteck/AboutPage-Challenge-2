@@ -1,4 +1,4 @@
-$('button').on("click", ()=>{
+$('.heading-content').on("click", ()=>{
     $('h3').fadeOut().slideToggle()
 })
 
